@@ -6,4 +6,4 @@ REG NO:24101123130057
 
 NAME:SAGASYA MAGOTI
 
-[https://github.com/sagasiamagoti-design/Design-system-managements](https://sagasiamagoti-design.github.io/Design-system-managements/)
+ https://sagasiamagoti-design.github.io/Design-system-managements/
